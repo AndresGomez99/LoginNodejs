@@ -15,5 +15,5 @@ app.get("/login",(req,res)=>{
 app.post("/login",(req,res)=>{
     
 });
-app.listen(8080,()=>console.log("server started"));
+app.listen(process.env.PORT || 5000)
 
