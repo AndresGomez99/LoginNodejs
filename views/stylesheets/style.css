@@ -33,6 +33,7 @@ a {
 }
 
 input[type="text"] {
+    width: 50%;
   margin-bottom: 10px;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
