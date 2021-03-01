@@ -3,7 +3,7 @@ const app= express();
 
 app.set('view engine','ejs');
 app.get("/",(req,res)=>{
-      res.render("login")    
+      res.render("index")    
 });
 
 app.listen(process.env.PORT || 5000)
