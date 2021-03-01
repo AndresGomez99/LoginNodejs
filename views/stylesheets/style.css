@@ -33,13 +33,13 @@ a {
 }
 
 input[type="text"] {
-  margin-bottom: 0px;
+  margin-bottom: 10px;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
 
 input[type="password"] {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
